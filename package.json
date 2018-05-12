@@ -7,10 +7,8 @@
   "jsnext:main": "dist/spyfu-vue-transitions.esm.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production rollup -c",
-    "dev": "cross-env NODE_ENV=development npm-run-all --parallel start watch",
-    "start": "serve public",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "rollup -c -w"
+    "dev": "cross-env NODE_ENV=development rollup -c -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
