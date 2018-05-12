@@ -1,0 +1,24 @@
+{
+  "name": "spyfu-vue-transitions",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spyfu/spyfu-vue-transitions.git"
+  },
+  "keywords": [
+    "vue",
+    "transition",
+    "components"
+  ],
+  "author": "SpyFu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spyfu/spyfu-vue-transitions/issues"
+  },
+  "homepage": "https://github.com/spyfu/spyfu-vue-transitions#readme"
+}
