@@ -1,5 +1,7 @@
 # spyfu-vue-transitions
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/spyfu/spyfu-vue-transitions/blob/master/LICENSE)
+
 This repository will eventually house our beautiful transition components, so they can be used across projects.
 
 ##### A couple of project goals...
