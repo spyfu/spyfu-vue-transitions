@@ -1,1 +1,1 @@
-export { default as autoHeightTransition } from './transitions/auto_height.vue';
+export { default as autoHeightTransition } from './transitions/auto_height';
