@@ -1,6 +1,6 @@
 {
   "name": "spyfu-vue-transitions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "dist/spyfu-vue-transitions.js",
   "module": "dist/spyfu-vue-transitions.esm.js",
