@@ -16,9 +16,9 @@ This repository will eventually house our beautiful transition components, so th
 
 ### Some transitions that will be added...
 
-- `AutoHeightTransition` - Transition the height of a container sized by it's content
-- `AuthHeightTransitionGroup` - Transition the height of a container sized by it's child elements
-- `FadeTransition` - Fade an element in and out
-- `FadeMoveTransition` - A fade transition that also translates in a given direction
-- `NumberTransition` - State transition between numbers
-- `StaggeredEnterTransition` - Staggers the entering of elements by a given duration
+- [x] `AutoHeightTransition` - Transition the height of a container sized by it's content
+- [ ] `AuthHeightTransitionGroup` - Transition the height of a container sized by it's child elements
+- [ ] `FadeTransition` - Fade an element in and out
+- [ ] `FadeMoveTransition` - A fade transition that also translates in a given direction
+- [x] `NumberTransition` - State transition between numbers
+- [ ] `StaggeredEnterTransition` - Staggers the entering of elements by a given duration
