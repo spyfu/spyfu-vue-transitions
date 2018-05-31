@@ -54,16 +54,19 @@
             <h1>spyfu-vue-transitions</h1>
 
             <v-auto-height-example />
+            <v-number-example />
         </div>
     </div>
 </template>
 
 <script>
 import autoHeightExample from './examples/auto_height_example.vue';
+import numberExample from './examples/number_example.vue';
 
 export default {
     components: {
         'v-auto-height-example': autoHeightExample,
+        'v-number-example': numberExample,
     }
 }
 </script>

@@ -6,9 +6,11 @@ import Vue from 'vue';
 //
 import { 
     autoHeightTransition,
+    numberTransition,
 } from '../../src/index';
 
 Vue.component('v-auto-height-transition', autoHeightTransition);
+Vue.component('v-number-transition', numberTransition);
 
 //
 // sandbox app
